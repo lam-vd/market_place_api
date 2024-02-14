@@ -45,3 +45,5 @@ group :development do
   # gem "spring"
 end
 gem "faker", "~> 3.2"
+
+gem "fast_jsonapi", "~> 1.5"
